@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">Projeto pessoal desenvolvido para fins de estudo, utilizando imagens do Starbucks como referência visual. 
 </h2>
-<img src="https://github.com/GuilhermeMorenoo/projeto-estudo-starbucks/blob/master/assets/print-screen.png?raw=true"> 
+<img src="https://github.com/GuilhermeMorenoo/projeto-estudo-starbucks/blob/master/img/print-screen.png?raw=true"> 
 <br>
 <br>
   <p align="center">
